@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: Lihux 小站
+subtitle: 愿一股清流，从这里出发
 description:
-author: John Doe
-language:
-timezone:
+author: hui li
+language: zh-CN
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://www.lihux.me
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -68,5 +68,6 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:git
-  repository:https://github.com/lihux/lihux.me
+  type: git
+  repository: https://github.com/lihux/lihux.me.git
+  branch: master
