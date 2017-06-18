@@ -70,4 +70,4 @@ theme: next
 deploy:
   type: git
   repository: https://github.com/lihux/lihux.me.git
-  branch: master
+  branch: gh-pages
