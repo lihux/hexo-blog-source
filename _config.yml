@@ -4,7 +4,7 @@
 
 # Site
 title: Lihux 小站
-subtitle: 愿一股清流，从这里出发
+subtitle: 少而精，字斟句酌，历久弥新，唯愿以冰山之一角示人
 description:
 author: hui li
 language: zh-CN
@@ -69,5 +69,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/lihux/lihux.me.git
-  branch: gh-pages
+  repository: https://github.com/lihux/lihux.github.io.git
+  branch: master
