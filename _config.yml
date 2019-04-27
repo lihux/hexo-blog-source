@@ -2,6 +2,12 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
+#lihux added:
+#批量转换png->jpeg格式图片的命令行：
+#for i in *.png; do sips -s format jpegls $i --out Doc/$i.png;done
+#markdown中数学公式的基本应用：https://blog.csdn.net/u014630987/article/details/70156489
+#
+
 # Site
 title: Lihux 小站
 subtitle: 少而精，字斟句酌，历久弥新，唯愿以冰山之一角示人
